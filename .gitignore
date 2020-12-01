@@ -1,0 +1,8 @@
+# local Mac OS files
+__MACOSX/
+
+# local Windows files
+desktop.ini
+
+
+# please add LaTeX/Python gitignores in subfolders
