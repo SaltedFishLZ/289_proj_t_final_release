@@ -9,6 +9,7 @@ CS289A(20F) Project T Final by Team Placeholder
 
 * Introduction to common activation units [Wayne Tung-Wei Lin, Sheng-Jung Yu]
   - Know different activation units
+  - Derive and visualize the derivatives and compare them
   - Apply them in practice
 
 * Gradient vanishing/exploding caused by activation units [Zheng Liang, Linyuan Gong]
