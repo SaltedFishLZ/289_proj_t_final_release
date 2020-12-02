@@ -8,7 +8,7 @@ CS289A(20F) Project T Final by Team Placeholder
   - With activation units, we can approximate any function in theory.
 
 * Introduction to common activation units [Wayne Tung-Wei Lin, Sheng-Jung Yu]
-  - Know different activation units
+  - Know different activation units and their advantages/disadvantages
   - Apply them in practice
 
 * Gradient vanishing/exploding caused by activation units [Zheng Liang, Linyuan Gong]
