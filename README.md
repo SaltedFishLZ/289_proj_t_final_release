@@ -3,15 +3,15 @@ CS289A(20F) Project T Final by Team Placeholder
 
 ## Learning Objectives
 
-* The role activation units paly in neural networks
+* The role activation units paly in neural networks [Linyuan Gong, Wayne Tung-Wei Lin]
   - Why activations are essential in neural networks. What happens when activation units are absent.
   - With activation units, we can approximate any function in theory.
 
-* Introduction to common activation units
+* Introduction to common activation units [Wayne Tung-Wei Lin, Sheng-Jung Yu]
   - Know different activation units
   - Apply them in practice
 
-* Gradient vanishing/exploding caused by activation units
+* Gradient vanishing/exploding caused by activation units [Zheng Liang, Linyuan Gong]
   - What is the problem
   - Why it happens
   - How to solve/mitigate it
