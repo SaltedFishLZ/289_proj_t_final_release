@@ -40,20 +40,20 @@ CS289A(20F) Project T Final by Team Placeholder
  
 
 ## File Structure
-```
+<pre>
 project
-│   Slides.pdf 
-│   Note.pdf    
-│   Quiz.pdf
-└───assignments
-│   │   Assignment.pdf: The desrciption for each problem
-│   └───prob2
-│   │   │   prob2.ipynb
-│   │   └─  prob2_sol.ipynb     
-│   └───prob3
-│   │   │   prob3.ipynb
-│   │   └─  prob3_sol.ipynb
-│   └───prob4
-│       │   prob4.ipynb
-└─      └─  prob4_sol.ipynb
-```
+│   <b>Note.pdf</b>: main lecture content  
+│   <b>Slides.pdf</b>: brief summary of the Note.pdf.     
+│   <b>Quiz.pdf</b>   
+└───<b>assignments</b>: folder containing problem descriptions and corresponding jupyter notebook for each problem   
+│   │   <b>Assignment.pdf</b>: problem descriptions   
+│   └───<b>prob2</b>: folder containing the problem and the solution for problem 2    
+│   │   │   <b>prob2.ipynb</b>   
+│   │   └─  <b>prob2_sol.ipynb</b>       
+│   └───<b>prob3</b>: folder containing the problem and the solution for problem 3     
+│   │   │   <b>prob3.ipynb</b>      
+│   │   └─  <b>prob3_sol.ipynb</b>      
+│   └───<b>prob4</b>: folder containing the problem and the solution for problem 4     
+│       │   <b>prob4.ipynb</b>     
+└─      └─  <b>prob4_sol.ipynb</b>   
+</pre>
