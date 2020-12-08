@@ -39,4 +39,21 @@ CS289A(20F) Project T Final by Team Placeholder
     + Students may also develop their interest in some advanced topics like random matrices.
  
 
-
+## File Structure
+```
+project
+│   Slides.pdf 
+│   Note.pdf    
+│   Quiz.pdf
+└───assignments
+│   │   Assignment.pdf: The desrciption for each problem
+│   └───prob2
+│   │   │   prob2.ipynb
+│   │   └─  prob2_sol.ipynb     
+│   └───prob3
+│   │   │   prob3.ipynb
+│   │   └─  prob3_sol.ipynb
+│   └───prob4
+│       │   prob4.ipynb
+└─      └─  prob4_sol.ipynb
+```
