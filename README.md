@@ -45,7 +45,7 @@ project
 │   <b>Note.pdf</b>: main lecture content  
 │   <b>Slides.pdf</b>: brief summary of the Note.pdf.     
 │   <b>Quiz.pdf</b>   
-└───<b>assignments</b>: folder containing problem descriptions and corresponding jupyter notebook for each problem   
+└───<b>Assignment</b>: folder containing problem descriptions and corresponding jupyter notebook for each problem   
 │   │   <b>Assignment.pdf</b>: problem descriptions   
 │   └───<b>prob2</b>: folder containing the problem and the solution for problem 2    
 │   │   │   <b>prob2.ipynb</b>   
