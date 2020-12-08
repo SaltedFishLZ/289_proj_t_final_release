@@ -43,7 +43,7 @@ CS289A(20F) Project T Final by Team Placeholder
 <pre>
 project
 │   <b>Note.pdf</b>: main lecture content  
-│   <b>Slides.pdf</b>: brief summary of the Note.pdf.     
+│   <b>Slides.pdf</b>: brief summary of the Note.pdf     
 │   <b>Quiz.pdf</b>   
 └───<b>Assignment</b>: folder containing problem descriptions and corresponding jupyter notebook for each problem   
 │   │   <b>Assignment.pdf</b>: problem descriptions   
