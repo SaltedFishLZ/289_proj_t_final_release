@@ -47,13 +47,13 @@ project
 │   <b>Quiz.pdf</b>   
 └───<b>Assignment</b>: folder containing problem descriptions and corresponding jupyter notebook for each problem   
 │   │   <b>Assignment.pdf</b>: problem descriptions   
-│   └───<b>prob2</b>: folder containing the problem and the solution for problem 2    
+│   └───<b>prob2</b>: folder containing the statement and the solution for problem 2    
 │   │   │   <b>prob2.ipynb</b>   
 │   │   └─  <b>prob2_sol.ipynb</b>       
-│   └───<b>prob3</b>: folder containing the problem and the solution for problem 3     
+│   └───<b>prob3</b>: folder containing the statement and the solution for problem 3     
 │   │   │   <b>prob3.ipynb</b>      
 │   │   └─  <b>prob3_sol.ipynb</b>      
-│   └───<b>prob4</b>: folder containing the problem and the solution for problem 4     
+│   └───<b>prob4</b>: folder containing the statement and the solution for problem 4     
 │       │   <b>prob4.ipynb</b>     
 └─      └─  <b>prob4_sol.ipynb</b>   
 </pre>
