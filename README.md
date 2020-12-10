@@ -46,7 +46,8 @@ project
 │   <b>Slides.pdf</b>: brief summary of the Note.pdf. This can be used when the course is taught in lecture.     
 │   <b>Quiz.pdf</b> the quiz to test the student's understanding of the content. The quiz should be taken after the student has finished the note and assignment.   
 └───<b>Assignment</b>: folder containing problem statements and corresponding jupyter notebook for each problem. This should be done after reading Note.pdf.   
-│   │   <b>Assignment.pdf</b>: problem descriptions   
+│   │   <b>hw.pdf</b>: problem descriptions   
+│   │   <b>hw-sol.pdf</b>: problem solutions 
 │   └───<b>prob2</b>: folder containing the statement and the solution for problem 2    
 │   │   │   <b>prob2.ipynb</b>   
 │   │   └─  <b>prob2_sol.ipynb</b>       
@@ -57,4 +58,4 @@ project
 │       │   <b>prob4.ipynb</b>     
 └─      └─  <b>prob4_sol.ipynb</b>   
 </pre>
-The order in which the files should be browsed: Note.pdf &rarr; Slides.pdf &rarr; Assignment.pdf &rarr; Quiz.pdf
+The order in which the files should be browsed: Note.pdf &rarr; Slides.pdf &rarr; hw.pdf &rarr; Quiz.pdf
