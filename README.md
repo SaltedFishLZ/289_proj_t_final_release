@@ -39,13 +39,13 @@ CS289A(20F) Project T Final by Team Placeholder
     + Students may also develop their interest in some advanced topics like random matrices.
  
 
-## File Structure
+## Usage
 <pre>
 project
-│   <b>Note.pdf</b>: main lecture content  
-│   <b>Slides.pdf</b>: brief summary of the Note.pdf     
-│   <b>Quiz.pdf</b>   
-└───<b>Assignment</b>: folder containing problem descriptions and corresponding jupyter notebook for each problem   
+│   <b>Note.pdf</b>: main lecture content. This is where the student should start.  
+│   <b>Slides.pdf</b>: brief summary of the Note.pdf. This can be used when the course is taught in lecture.     
+│   <b>Quiz.pdf</b> the quiz to test the student's understanding of the content. The quiz should be taken after the student has finished the note and assignment.   
+└───<b>Assignment</b>: folder containing problem statements and corresponding jupyter notebook for each problem. This should be done after reading Note.pdf.   
 │   │   <b>Assignment.pdf</b>: problem descriptions   
 │   └───<b>prob2</b>: folder containing the statement and the solution for problem 2    
 │   │   │   <b>prob2.ipynb</b>   
@@ -57,3 +57,4 @@ project
 │       │   <b>prob4.ipynb</b>     
 └─      └─  <b>prob4_sol.ipynb</b>   
 </pre>
+The order in which the files should be browsed: Note.pdf &rarr; Slides.pdf &rarr; Assignment.pdf &rarr; Quiz.pdf
